@@ -1,5 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/838258453109669899/939630616809468014/why-choose-front-end-developer-indylogix-solutions.png" min-width="400px" max-width="400px" width="350px" align="right" alt="Computador iuriCode">
-
 # Hi, I'm Logan!
 
 <a href="https://www.linkedin.com/in/logan-bauer/">
