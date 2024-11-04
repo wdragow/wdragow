@@ -4,8 +4,6 @@
   <img align="center" src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=E93757" />
 </a>
 
-## :rocket:&nbsp; Technologies
-
 #### Main Knowledge
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
